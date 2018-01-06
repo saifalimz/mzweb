@@ -2401,12 +2401,20 @@ body {
   flex-basis: auto;
 }
 .cid-qFXSoY5qQZ {
-  padding-top: 105px;
+  padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
+.cid-qFXXETBkkH {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qFXXETBkkH .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qFXQQiWr8V {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 45px;
   background-color: #f9f9f9;
 }
